@@ -3,6 +3,9 @@
       "displayName": "Apply tag and its default value",
       "policyType": "BuiltIn",
       "description": "Applies a required tag and its default value if it is not specified by the user.",
+      "metadata": {
+         "category": "General"
+      },
       "parameters": {
          "tagName": {
             "type": "String",
